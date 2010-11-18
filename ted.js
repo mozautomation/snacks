@@ -1,1 +1,4 @@
-var snacks = {"meat":"yum"};
+var snacks = {
+    "meat":"yum",
+    "veggies":"sux"
+};
