@@ -1,0 +1,1 @@
+var snacks = {"meat":"yum"};
